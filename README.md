@@ -1,3 +1,3 @@
-this is first commit
+this is first developer2
 this is feature 
 updated for conflict
